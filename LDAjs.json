@@ -2,7 +2,7 @@
  "name": "LDA",
  "children": [
   {
-    "name": "TOPIC_1",
+    "name": " ",
     "children": [
      {"name": "Drowning in Data", "value": 6398.720169},
      {"name": "Design Thinking for Higher Education", "value": 6398.720169},
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "name": "TOPIC_2",
+    "name": " ",
     "children": [
      {"name": "Across the Returns Continuum", "value": 3274.345087},
      {"name": "In Search of the Hybrid Ideal", "value": 3274.345087},
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "name": "TOPIC_3",
+    "name": " ",
     "children": [
      {"name": "A New Era for Business", "value": 2924.122529},
      {"name": "The Other CSR", "value": 2924.122529},
@@ -133,7 +133,7 @@
     ]
   },
   {
-    "name": "TOPIC_4",
+    "name": " ",
     "children": [
      {"name": "The Workings of Class", "value": 2724.455072},
      {"name": "Act on Facts Not Faith", "value": 2724.455072},
@@ -164,7 +164,7 @@
     ]
   },
   {
-    "name": "TOPIC_5",
+    "name": " ",
     "children": [
      {"name": "The Missing Link in School Reform", "value": 2374.525063},
      {"name": "Using Economic Forces to Conserve Nature", "value": 2374.525063},
@@ -192,7 +192,7 @@
     ]
   },
   {
-    "name": "TOPIC_6",
+    "name": " ",
     "children": [
      {"name": "In Microfinance Clients Must Come First", "value": 1799.640048},
      {"name": "Private Schools for the Poor", "value": 1749.240053},
@@ -214,7 +214,7 @@
     ]
   },
   {
-    "name": "TOPIC_7",
+    "name": " ",
     "children": [
      {"name": "How Nonprofits Get Really Big", "value": 1699.77501},
      {"name": "The Nonprofit Starvation Cycle", "value": 1645.875037},
@@ -236,7 +236,7 @@
     ]
   },
   {
-    "name": "TOPIC_8",
+    "name": " ",
     "children": [
      {"name": "War of Ideas", "value": 1252.687521},
      {"name": "Climate Science as Culture War", "value": 1223.234998},
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "name": "TOPIC_9",
+    "name": " ",
     "children": [
      {"name": "The Risky Rhetoric of Female Risk Aversion", "value": 1274.745034},
      {"name": "An Accidental Good", "value": 1269.135015},
@@ -269,7 +269,7 @@
     ]
   },
   {
-    "name": "TOPIC_10",
+    "name": " ",
     "children": [
      {"name": "The Hidden Cost of Paradise", "value": 1174.647512},
      {"name": "Beyond the Poverty Line", "value": 1174.647512},
